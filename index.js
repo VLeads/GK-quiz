@@ -10,6 +10,7 @@ console.log("Hi " + chalk.yellow(userName) + " Welcome to GK quiz game !");
 function play(question,answer){
   var userAnswer = readlineSync.question(question);
 
+  if(userAnswer.toUpperCase() === answer.toUpperCase()){
     console.log(chalk.bgYellow.italic("Right"));
     score = score+1;
   }else
