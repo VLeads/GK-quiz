@@ -7,7 +7,7 @@
 - _CLI_
 - using **_Nodejs_**
 
-So what are you waiting for click on the [play](https://replit.com/@VishalKumar51/GK-quiz?outputonly=1) link. And enter into the **_interesting world of Questions_**🥳
+So what are you waiting for click on the [play](https://replit.com/@VishalKumar51/GK-quiz?outputonly=1) link. And enter into the **_interesting world of Questions_** 🥳
 
 `Also see:`
 
