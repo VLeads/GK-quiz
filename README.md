@@ -1,6 +1,6 @@
 # Welcome to the GK quiz
 
-![GK image](F:\Learning- tanay pratap\gk.jpg)
+![GK image](gk.jpg)
 
 ## It's a simple quiz game made in
 
