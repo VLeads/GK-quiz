@@ -62,21 +62,6 @@ Vishal: 3
 Akash: 3
 Sam: 2`);
 
-var result =[
-  {
-    name: "Vishal",
-    highScore: 3
-  },
-  {
-    name: "Akash",
-    highScore: 3
-  },
-  {
-    name: "Sam",
-    highScore: 2
-  }
-];
-
 if (score > 2) {
   console.log("Yay! You scored well...");
 } else {
